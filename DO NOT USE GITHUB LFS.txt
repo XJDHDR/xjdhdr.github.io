@@ -1,0 +1,1 @@
+It has an storage and bandwidth limit of 1GB. Regular repo storage ups those limits to 100GB.
