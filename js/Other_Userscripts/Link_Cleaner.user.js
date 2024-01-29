@@ -2,7 +2,7 @@
 // @name 			Link Cleaner
 // @author 			Xavier "XJDHDR" du Hecquet de Rauville
 // @description 	Scans all URLs on a webpage for links that contain disclaimers, redirects, and other similar cruft. It will then remove that cruft and allow you to navigate straight to the endpoint the URL is supposed to point to.
-// @license 		MPL-2.0-no-copyleft-exception; https://mozilla.org/MPL/2.0/
+// @license 		MPL-2.0; https://mozilla.org/MPL/2.0/
 // @homepageURL 	https://xjdhdr.gitlab.io/
 // @supportURL 		https://xjdhdr.gitlab.io/
 // @contributionURL https://github.com/XJDHDR/xjdhdr.github.io
